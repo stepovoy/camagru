@@ -1,0 +1,57 @@
+body, h1, h2{
+	margin: 0 auto;
+}
+#header {
+  background-color: #45425A;
+  height: 150px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+#footer {
+  background-color: #6C7D47;
+  text-align: right;
+  color: #fff;
+}
+#section {
+	padding: 20px;
+}
+span {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+.page {
+	text-align: center;
+}
+#image {
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.main {
+  position: relative;
+  float: left;
+  margin-right: 20px;
+  z-index: 2;
+}
+#video {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+#frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.sidebar {
+	position: relative;
+	text-align: right;
+	margin-right: 20px;
+	z-index: 1;
+}
+.buttons {
+	z-index: 3;
+}
