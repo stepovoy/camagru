@@ -1,12 +1,14 @@
 # camagru
-Instagram-like PHP &amp; JavaScript &amp; HTML &amp; CSS project. No frameworks allowed.
+Instagram-like PHP &amp; JavaScript &amp; HTML &amp; CSS project at School 42. No frameworks allowed.
+
+(116/100)
 
 Subject rewrite in task list:
+
 USER
 
 Sign up:
-Email, password(8symbols, not equal), confirmation email with a validation link.
-
+Email, password(at least 8symbols), confirmation email with a validation link.
 Log in:
 Email, password.
 Forgot password? Email reset link.
@@ -20,7 +22,7 @@ This page should contain 2 sections:
    •    Superposable images must be selectable and the button allowing to take the picture should be inactive (not clickable) as long as no superposable image has been selected.  
 
 
-   •    The creation of the final image (so among others the superposing of the two images) must be done on the server side, in PHP.  
+   •    The creation of the final image (so among others the superposing of the two images) must be done on the server side, in PHP.
 
 
    •    Because not everyone has a webcam, you should allow the upload of a user image instead of capturing one with the webcam.
@@ -28,28 +30,30 @@ This page should contain 2 sections:
    •    The user should be able to delete his edited images, but only his, not other users’ creations.
 
 GALLERY(Homepage)
+
 Display all images ordered by date of creation.
 For logged in users an ability to like and comment them.
 On receiving a comment on user’s image, send notification on email.
-<<“The list of images must be presented in successive pages (i.e. X images by page).“???>> 
+The list of images must be presented in successive pages (i.e. X images by page).
 
 
 BONUS(any bonus you wish)
+
 Mind that image processing should be done on server side(probable meaning PHP?)
 Examples:
-   •    “AJAXify” exchanges with the server.  
+   •    “AJAXify” exchanges with the server.
 
 
-   •    Propose a live preview of the edited result, directly on the webcam preview. We  should note that this is much easier than it looks.  
+   •    Propose a live preview of the edited result, directly on the webcam preview. We  should note that this is much easier than it looks.
 
 
-   •    Do an infinite pagination of the gallery part of the site.  
+   •    Do an infinite pagination of the gallery part of the site.
 
 
-   •    Offer the possibility to a user to share his images on social networks.  
+   •    Offer the possibility to a user to share his images on social networks.
 
 
-   •    Render an animated GIF.  
+   •    Render an animated GIF.
 
 
 Required structure:
