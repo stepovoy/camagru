@@ -14,7 +14,7 @@ Email, password.
 Forgot password? Email reset link.
 Logout link at every page.
 
-EDIT (Only after logged in) Else: homepage/register/login link
+EDIT (Only after logged in) Else: homepage/register/login link 
 This page should contain 2 sections:
 “A main section containing the preview of the user’s webcam, the list of superposable images and a button allowing to capture a picture.”
 “A side section displaying thumbnails of all previous pictures taken.”
