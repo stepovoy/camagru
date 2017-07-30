@@ -42,6 +42,7 @@ BONUS(any bonus you wish)
 
 Mind that image processing should be done on server side(probable meaning PHP?)
 Examples:
+
    •    “AJAXify” exchanges with the server.
 
 
@@ -58,6 +59,7 @@ Examples:
 
 
 Required structure:
+
    •    A index.php file, containing the entering point of your site and located at the root of your file hierarchy.  
 
 
