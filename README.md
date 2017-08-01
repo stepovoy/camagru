@@ -3,7 +3,7 @@ Instagram-like PHP &amp; JavaScript &amp; HTML &amp; CSS project at School 42. N
 
 (116/100)
 
-Subject rewrite in task list:
+# Subject rewrite in task list:
 
 USER
 
